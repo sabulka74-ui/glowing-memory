@@ -1,0 +1,13 @@
+$ git add hello.txt
+$ git add -A
+$ git status
+On branch master
+Initial commit
+Changes to be committed:
+(use "git rm --cached ..." to unstage)
+new file: hello.txt
+git add index.html
+git add css/style.css
+git reset:
+git reset css/style.css
+git commit -m 'Add some code'
